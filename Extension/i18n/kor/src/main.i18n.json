@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "이 확장의 {0} {1} 버전은 OS와 호환되지 않습니다. 확장의 \"{2}\" 버전을 다운로드하여 설치하세요.",
 	"extension.installation.failed": "C/C++ 확장을 설치하지 못했습니다. C/C++ 언어 기능이 제대로 작동하려면 확장을 복구하거나 다시 설치해야 합니다.",
 	"remove.extension": "복구 시도",
-	"jason.files.missing": "C/C++ 확장을 설치하지 못했습니다. C/C++ 언어 기능이 제대로 작동하려면 확장을 다시 설치해야 합니다.",
+	"json.files.missing": "C/C++ 확장을 설치하지 못했습니다. C/C++ 언어 기능이 제대로 작동하려면 확장을 다시 설치해야 합니다.",
 	"initialization.failed": "C/C++ 확장을 설치하지 못했습니다. 자세한 내용은 출력 창을 참조하세요.",
 	"updating.dependencies": "C/C++ 종속성을 업데이트하는 중...",
 	"rename.failed.delete.manually": "오류: fs.rename이 \"{0}\"과(와) 함께 실패했습니다. {1}을(를) 수동으로 삭제하여 디버깅을 사용하도록 설정합니다.",

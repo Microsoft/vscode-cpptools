@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "此 {0} {1} 版延伸模組與您的作業系統不相容。請下載並安裝 \"{2}\" 版延伸模組。",
 	"extension.installation.failed": "無法成功安裝 C/C++ 延伸模組。您必須修復或重新安裝 C/C++ 語言功能的延伸模組，才可正常運作。",
 	"remove.extension": "嘗試修復",
-	"jason.files.missing": "無法成功安裝 C/C++ 延伸模組。您必須重新安裝 C/C++ 語言功能的延伸模組，才可正常運作。",
+	"json.files.missing": "無法成功安裝 C/C++ 延伸模組。您必須重新安裝 C/C++ 語言功能的延伸模組，才可正常運作。",
 	"initialization.failed": "C/C + + 延伸模組安裝失敗。如需詳細資訊，請查看 [輸出] 視窗。",
 	"updating.dependencies": "正在更新 C/C + + 相依性...",
 	"rename.failed.delete.manually": "錯誤: fs.rename 失敗，\"{0}\"。請手動刪除 {1} 以啟用偵錯。",

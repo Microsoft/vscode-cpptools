@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "Cette version {0} {1} de l'extension est incompatible avec votre système d'exploitation. Téléchargez et installez la version {2} de l'extension.",
 	"extension.installation.failed": "Échec de l'installation de l'extension C/C++. Vous devez réparer ou réinstaller l'extension pour que les fonctionnalités du langage C/C++ fonctionnent correctement.",
 	"remove.extension": "Tentative de réparation",
-	"jason.files.missing": "Échec de l'installation de l'extension C/C++. Vous devez réinstaller l'extension pour que les fonctionnalités du langage C/C++ fonctionnent correctement.",
+	"json.files.missing": "Échec de l'installation de l'extension C/C++. Vous devez réinstaller l'extension pour que les fonctionnalités du langage C/C++ fonctionnent correctement.",
 	"initialization.failed": "L'installation de l'extension C/C++ a échoué. Pour plus d'informations, consultez la fenêtre Sortie.",
 	"updating.dependencies": "Mise à jour des dépendances C/C++...",
 	"rename.failed.delete.manually": "ERREUR : fs.rename a échoué avec \"{0}\". Supprimez {1} manuellement pour activer le débogage.",

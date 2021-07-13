@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "此 {0} {1} 版本的扩展与你的 OS 不兼容，请下载并安装 \"{2}\" 版本的扩展。",
 	"extension.installation.failed": "C/C++ 扩展安装失败。为使函数正常工作，需要修复或重新安装 C/C++ 语言功能的扩展。",
 	"remove.extension": "尝试修复",
-	"jason.files.missing": "C/C++ 扩展安装失败。为使函数正常工作，需要重新安装 C/C++ 语言功能的扩展。",
+	"json.files.missing": "C/C++ 扩展安装失败。为使函数正常工作，需要重新安装 C/C++ 语言功能的扩展。",
 	"initialization.failed": "C/C++ 扩展安装失败。有关详细信息，请查看输出窗口。",
 	"updating.dependencies": "正在更新 C/C++ 依赖项...",
 	"rename.failed.delete.manually": "错误: fs.rename 失败，原因为“{0}”。请手动删除 {1} 以启用调试。",

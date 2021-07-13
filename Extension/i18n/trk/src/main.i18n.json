@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "Uzantının bu {0} {1} sürümü, işletim sisteminizle uyumlu değil. Lütfen uzantının \"{2}\" sürümünü indirip yükleyin.",
 	"extension.installation.failed": "C/C++ uzantısı başarıyla yüklenemedi. C/C++ dil özelliklerinin düzgün çalışması için uzantıyı onarmanız veya yeniden yüklemeniz gerekir.",
 	"remove.extension": "Onarmayı Dene",
-	"jason.files.missing": "C/C++ uzantısı başarıyla yüklenemedi. C/C++ dil özelliklerinin düzgün çalışabilmesi için uzantıyı yeniden yüklemeniz gerekir.",
+	"json.files.missing": "C/C++ uzantısı başarıyla yüklenemedi. C/C++ dil özelliklerinin düzgün çalışabilmesi için uzantıyı yeniden yüklemeniz gerekir.",
 	"initialization.failed": "C/C++ uzantısının yüklenmesi başarısız oldu. Daha fazla bilgi için lütfen çıkış penceresine bakın.",
 	"updating.dependencies": "C/C++ bağımlılıkları güncelleştiriliyor...",
 	"rename.failed.delete.manually": "HATA: fs.rename, \"{0}\" ile başarısız oldu. Hata ayıklamayı etkinleştirmek için {1} dosyasını kendiniz silin.",

@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "Ta wersja rozszerzenia systemu {0} {1} jest niezgodna z Twoim systemem operacyjnym. Pobierz i zainstaluj wersję rozszerzenia „{2}”.",
 	"extension.installation.failed": "Nie można pomyślnie zainstalować rozszerzenia języka C/C++. Aby umożliwić poprawne działanie, należy naprawić lub zainstalować ponownie rozszerzenie dla funkcji języka C/C++.",
 	"remove.extension": "Spróbuj naprawić",
-	"jason.files.missing": "Nie można pomyślnie zainstalować rozszerzenia języka C/C++. Aby umożliwić poprawne działanie, należy zainstalować ponownie rozszerzenie dla funkcji języka C/C++.",
+	"json.files.missing": "Nie można pomyślnie zainstalować rozszerzenia języka C/C++. Aby umożliwić poprawne działanie, należy zainstalować ponownie rozszerzenie dla funkcji języka C/C++.",
 	"initialization.failed": "Instalacja rozszerzenia języka C/C++ nie powiodła się. Zobacz okno danych wyjściowych, aby uzyskać więcej informacji.",
 	"updating.dependencies": "Trwa aktualizowanie zależności języka C/C++...",
 	"rename.failed.delete.manually": "BŁĄD: wystąpił błąd funkcji fs.rename: „{0}”. Usuń element {1} ręcznie, aby włączyć debugowanie.",

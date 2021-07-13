@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "Diese Version {0} {1} der Erweiterung ist nicht mit Ihrem Betriebssystem kompatibel. Laden Sie Version \"{2}\" der Erweiterung herunter, und installieren Sie sie.",
 	"extension.installation.failed": "Die C/C++-Erweiterung konnte nicht erfolgreich installiert werden. Sie müssen die Erweiterung für C/C++-Sprachfeatures reparieren oder neu installieren, damit die Erweiterung ordnungsgemäß funktioniert.",
 	"remove.extension": "Reparaturversuch",
-	"jason.files.missing": "Die C/C++-Erweiterung konnte nicht erfolgreich installiert werden. Sie müssen die Erweiterung für C/C++-Sprachfeatures neu installieren, damit die Erweiterung ordnungsgemäß funktioniert.",
+	"json.files.missing": "Die C/C++-Erweiterung konnte nicht erfolgreich installiert werden. Sie müssen die Erweiterung für C/C++-Sprachfeatures neu installieren, damit die Erweiterung ordnungsgemäß funktioniert.",
 	"initialization.failed": "Fehler bei der Installation der C/C++-Erweiterung. Weitere Informationen finden Sie im Ausgabefenster.",
 	"updating.dependencies": "C/C++-Abhängigkeiten werden aktualisiert...",
 	"rename.failed.delete.manually": "FEHLER bei \"fs.rename\": {0}. Löschen Sie \"{1}\" manuell, um das Debugging zu aktivieren.",

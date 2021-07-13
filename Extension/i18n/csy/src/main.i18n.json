@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "Tato verze rozšíření pro {0} {1} není kompatibilní s vaším operačním systémem. Stáhněte a nainstalujte si prosím verzi rozšíření {2}.",
 	"extension.installation.failed": "Nepovedlo se úspěšně nainstalovat rozšíření jazyka C/C++. Aby rozšíření pro funkce jazyka C/C++ fungovalo správně, bude nutné ho opravit nebo přeinstalovat.",
 	"remove.extension": "Pokusit se o opravu",
-	"jason.files.missing": "Nepovedlo se úspěšně nainstalovat rozšíření jazyka C/C++. Aby rozšíření pro funkce jazyka C/C++ fungovalo správně, bude nutné ho přeinstalovat.",
+	"json.files.missing": "Nepovedlo se úspěšně nainstalovat rozšíření jazyka C/C++. Aby rozšíření pro funkce jazyka C/C++ fungovalo správně, bude nutné ho přeinstalovat.",
 	"initialization.failed": "Nepovedlo se nainstalovat rozšíření C/C++. Další informace najdete v okně výstupu.",
 	"updating.dependencies": "Aktualizují se závislosti C/C++...",
 	"rename.failed.delete.manually": "CHYBA: Operace fs.rename neproběhla úspěšně s chybou {0}. Pokud chcete povolit ladění, odstraňte {1} ručně.",

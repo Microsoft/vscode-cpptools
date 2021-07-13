@@ -121,7 +121,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<CppToo
         });
     } else if (!(await util.checkInstallJsonsExist())) {
         // Check the Json files to declare if the extension has been installed successfully.
-        errMsg = localize("jason.files.missing", "The C/C++ extension failed to install successfully. You will need to reinstall the extension for C/C++ language features to function properly.");
+        errMsg = localize("json.files.missing", "The C/C++ extension failed to install successfully. You will need to reinstall the extension for C/C++ language features to function properly.");
         const downloadLink: string = localize("download.button", "Go to Download Page");
         vscode.window.showErrorMessage(errMsg, downloadLink).then(async (selection) => {
             if (selection === downloadLink) {

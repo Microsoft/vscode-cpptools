@@ -10,7 +10,7 @@
 	"native.binaries.not.supported": "Esta versão {0} {1} da extensão é incompatível com seu sistema operacional. Baixe e instale a versão \"{2}\" da extensão.",
 	"extension.installation.failed": "A extensão C/C++ não foi instalada com êxito. Será necessário reparar ou reinstalar a extensão dos recursos da linguagem C/C++ para que ela funcione corretamente.",
 	"remove.extension": "Tentar Reparar",
-	"jason.files.missing": "A extensão C/C++ não foi instalada com êxito. Será necessário reinstalar a extensão dos recursos da linguagem C/C++ para que ela funcione corretamente.",
+	"json.files.missing": "A extensão C/C++ não foi instalada com êxito. Será necessário reinstalar a extensão dos recursos da linguagem C/C++ para que ela funcione corretamente.",
 	"initialization.failed": "Falha na instalação da extensão C/C++. Para obter mais informações, confira a janela de saída.",
 	"updating.dependencies": "Atualizando dependências de C/C++...",
 	"rename.failed.delete.manually": "ERRO: o fs.rename falhou com \"{0}\". Exclua {1} manualmente para habilitar a depuração.",
